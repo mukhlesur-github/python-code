@@ -1,0 +1,5 @@
+git add file_name   --to stage single file_name
+git add .   --to stage all files at once
+git commit -m "commit message"  --to commit
+git push origin branch_name   --to push code to origin./ github site
+
