@@ -1,0 +1,15 @@
+{
+    "first_name": "Md Mukhlesur",
+    "last_name":"Rahaman",
+    "age": 28,
+    "city": "Birmingham",
+    "skills": ["Python", "SQL", "ETL", "Data Warehousing", "GCP", "BigQuery"],
+    "experience": {
+      "years": 5.9,
+      "roles": ["Data Engineer", "Data Analyst"]
+    },
+    "education": {
+      "degree": "B.Tech in Information Technology",
+      "university": "West Bengal University of Technology"
+    }
+  }
